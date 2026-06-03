@@ -3,7 +3,7 @@
 
 ##**Download My Resume**
 
-Click the file above to view/download my latest resume.
+Click the file below to view/download my latest resume.
 
 ## **Certifications**
 -Security+
