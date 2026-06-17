@@ -18,4 +18,4 @@ Click the file below to view/download my latest resume.
 -Azure Administrator
 -Cloud Engineer
 
-[IT resume Essential.pdf](https://github.com/user-attachments/files/28533347/IT.resume.Essential.pdf)
+
